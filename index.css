@@ -1,0 +1,21 @@
+#Counter{
+    font-size: 200px;
+    text-align: center;
+    display: block;
+}
+#ButtonContainer{
+    text-align: center;
+    size: 50px;
+}
+.Button{
+    font-size: 150%;
+    padding: 20px 30px;
+    margin: 5px;
+    color: rgb(165, 198, 198);
+    background-color: brown;
+    border-radius: 3px;
+
+}
+.Button:hover{
+    background-color: rgb(135, 82, 82);
+}
