@@ -64,5 +64,6 @@ Decrease.onclick = function ()
 }
 Reset.onclick = function ()
 {
+    count = 0
     Counter.textContent = 0
 }
