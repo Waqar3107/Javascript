@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+h1 {
+    color: rgb(4, 46, 46);
+}
+
+form {
+    background-color: azure;
+    text-align: center;
+    max-width: 600px;
+    border-radius: 5px;
+    margin: auto;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+    padding: 20px;
+}
+
+#textbox {
+    width: 50%;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 2px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+}
+
+label {
+    font-size: 1.2em;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+button {
+    margin-top: 15px;
+    background-color: rgb(5, 21, 21);
+    color: aliceblue;
+    font-size: 1.2em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#unit {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 15px;
+}
