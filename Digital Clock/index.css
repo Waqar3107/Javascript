@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+#Clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    height: 100vh;
+}
+#Clock
+{
+    font-size: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
